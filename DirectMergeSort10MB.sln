@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectMergeSort10MB", "DirectMergeSort10MB\DirectMergeSort10MB.csproj", "{BB25AD2B-547A-4779-AD24-13BD763BC213}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB25AD2B-547A-4779-AD24-13BD763BC213}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB25AD2B-547A-4779-AD24-13BD763BC213}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB25AD2B-547A-4779-AD24-13BD763BC213}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB25AD2B-547A-4779-AD24-13BD763BC213}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
